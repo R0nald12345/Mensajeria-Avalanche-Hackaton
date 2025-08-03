@@ -42,3 +42,6 @@ Los mensajes pueden enviarse en ambas direcciones entre estas cadenas utilizando
 - [Documentación de Avalanche](https://docs.avax.network/)
 - [Documentación de Teleporter](https://docs.avax.network/build/cross-chain/teleporter/overview)
 - [Documentación de ICM](https://docs.avax.network/build/cross-chain/icm/overview)
+
+## Smart Contract de los mensajes
+El archivo  TeleporterContract.sol agregar en el Remix Etherum IDE, luego hacer las respectivas tranasciones para obtener la direccion de contrato con CORE tesnet.
